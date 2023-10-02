@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mt-4{
+    position: relative ;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width:50;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+    
+
+}
+.mt-4 button {
+    /* Reduced button size */
+    padding: 5px 10px;
+    font-size: 8px;
+  }
