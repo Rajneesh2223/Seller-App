@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+## HERE IS THE DEPLOYED SITE OF THIS PROJECT 
+I have deployed this project on netlify 
+and it Works good on 125% of magnification .
+[https://illustrious-faloodeh-cc562f.netlify.app/).
 
 ### `npm start`
 
